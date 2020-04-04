@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  C:\Users\User\Desktop\123\ConsoleApplication1\ConsoleApplication1\Source.cpp(464) : warning C4715: LZ77: значение возвращается не при всех путях выполнения
+  C:\Users\User\Desktop\123\ConsoleApplication1\ConsoleApplication1\Source.cpp(669) : warning C4715: LZW: значение возвращается не при всех путях выполнения
+  C:\Users\User\Desktop\123\ConsoleApplication1\ConsoleApplication1\Source.cpp(560) : warning C4715: LZ78: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\123\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
